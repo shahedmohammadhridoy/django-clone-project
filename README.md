@@ -7,7 +7,11 @@
 mkdir logs
 ```
 ## Copy local_settings.example file
-## Enter PSQL
+## Postgre SQL
 ```
 sudo -i -u postgres
+```
+### Create Database
+```
+CREATE DATABASE <db_name>;
 ```
