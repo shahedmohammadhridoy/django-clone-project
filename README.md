@@ -9,6 +9,9 @@ python3.8 -m venv venv
 Source venv/bin/activate
 ```
 ## Install requirements
+```
+pip3 install -r requirements.txt
+```
 ## Create logs folder
 ```
 mkdir logs
