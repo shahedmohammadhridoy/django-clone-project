@@ -9,6 +9,9 @@ mkdir logs
 ## Copy local_settings.example file
 ## Postgre SQL
 ```
+sudo -u postgres psql
+```
+```
 sudo -i -u postgres
 ```
 ### Create Database
