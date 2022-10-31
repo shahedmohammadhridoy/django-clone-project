@@ -8,11 +8,21 @@ mkdir logs
 ```
 ## Copy local_settings.example file
 ## Postgre SQL
+### Enter
 ```
 sudo -u postgres psql
 ```
+### Exit
+```
+\q
+```
+### Enter
 ```
 sudo -i -u postgres
+```
+### Exit
+```
+exit
 ```
 ### Create Database
 ```
