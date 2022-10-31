@@ -9,5 +9,5 @@ mkdir logs
 ## Copy local_settings.example file
 ## Enter PSQL
 ```
-
+sudo -i -u postgres
 ```
