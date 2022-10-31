@@ -16,11 +16,11 @@ sudo -u postgres psql
 ```
 \q
 ```
-### Enter
+### Login
 ```
 sudo -i -u postgres
 ```
-### Exit
+### Logout
 ```
 exit
 ```
