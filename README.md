@@ -6,7 +6,7 @@ python3.8 -m venv venv
 ```
 ## Activate Virtual Environment
 ```
-Source venv/bin/activate
+source venv/bin/activate
 ```
 ## Install requirements
 ```
